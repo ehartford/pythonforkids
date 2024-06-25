@@ -17,8 +17,8 @@ This course takes students from complete beginners to being able to create their
 This repository is organized as follows:
 
 - `README.md`: This file, containing an overview of the course and repository.
-- `weekly_handouts`: Weekly handouts containing lesson plans, homework assignments, and additional notes.
-- `lessons`: Detailed lesson plans.
+- `weekly_handouts/`: Weekly handouts containing lesson plans, homework assignments, and additional notes.
+- `lessons/`: Detailed lesson plans.
 - `resources/`: Additional resources, code samples, and supplementary materials.
 
 ## Weekly Topics
