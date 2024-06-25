@@ -9,7 +9,7 @@ This course takes students from complete beginners to being able to create their
 ### Course Structure
 
 - Duration: 12 weeks
-- Lessons per week: 3 (Wednesday, Friday, Sunday)
+- Lessons per week: 3
 - Total lessons: 36
 
 ## Repository Structure
