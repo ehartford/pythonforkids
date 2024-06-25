@@ -7,7 +7,7 @@ Welcome to the first week of Uncle Eric's Python programming course! This week, 
 ### Topics
 - What is Python?
 - Installing Python
-- Using IDLE (Python's Integrated Development Environment)
+- Using Visual Studio Code
 
 ### Textbook Reference 
 "Python for Kids" by Jason R. Briggs, Chapter 1 - Not All Snakes Slither
