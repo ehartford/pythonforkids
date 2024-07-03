@@ -40,9 +40,9 @@ This repository is organized as follows:
 
 We use two main textbooks throughout this course:
 
-1. Briggs, J. R. (2013). "Python for Kids: A Playful Introduction to Programming." No Starch Press. ISBN: 978-1-59327-407-8
+1. Briggs, J. R. (2022). "Python for Kids, 2nd Edition: A Playful Introduction to Programming." No Starch Press. ISBN: 978-1-71850-302-1
 
-2. Matthes, E. (2019). "Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming." No Starch Press. ISBN: 978-1-59327-928-8
+2. Matthes, E. (2023). "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming." No Starch Press. ISBN: 978-1-71850-270-3
 
 ## How to Use This Repository
 
